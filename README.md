@@ -7,4 +7,4 @@
 - [Coming Soon](link-to-ios-app)
 
 ## Web
-- [Coming Soon](link-to-web-app)
+- [Access The SailorSpeak Web App](https://zakariya00.github.io/SailorSpeak-Application/)
